@@ -17,7 +17,7 @@ public class Exercicio5 {
 		n2*=3;
 		n3*=5;
 		media=(n1+n2+n3)/10;
-		System.out.printf("A média é: %f",media);
+		System.out.println("A média é:"+media);
 	}
 
 }
