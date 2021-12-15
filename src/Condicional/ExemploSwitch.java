@@ -32,7 +32,7 @@ public class ExemploSwitch {
 		default:
 			System.out.println("consoante");
 		}
-
+		ler.close();
 	}
 
 }
